@@ -18,8 +18,8 @@
 
 # INSIGHTS 
 
-##Work Environment Preferences:
-####29% prefer hybrid (15+ days in office), while 27% prefer fully remote work with occasional travel.
+## Work Environment Preferences:
+#### 29% prefer hybrid (15+ days in office), while 27% prefer fully remote work with occasional travel.
 20% are comfortable with a daily office environment, while 15% prefer hybrid with ≤3 office days.
 Only 5% prefer fully remote roles with no office visits.
 
