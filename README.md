@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-## In this project, I developed an interactive Power BI dashboard to analyze Career Aspirations of GEN-Z, providing a comprehensive view of career Growth, Work life balance of GEN-Z. The dashboard offers actionable insights using visually engaging reports, enabling working employers to make data-driven decisions.
+## In this project, I developed an interactive Power BI dashboard to analyze Career Aspirations of GEN-Z, providing a comprehensive view of career Growth, Work life balance of GEN-Z. The dashboard offers actionable insights using visually engaging reports, enabling working employers to make data-driven decisions, This dashboard shows both Manager and Mission aspirations of GEN-Z.
 
 
 
