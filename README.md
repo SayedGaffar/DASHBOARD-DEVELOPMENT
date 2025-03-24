@@ -35,6 +35,9 @@
 #### 41% prefer a full week break every 2 months, while 40% prefer it every 3 months.
 #### Only 3% are comfortable with taking a week-long break once a year.
 
+![Image](https://github.com/user-attachments/assets/cc2f5674-765f-461b-8cf5-b0fb3bc59734)
+![Image](https://github.com/user-attachments/assets/2ebb4828-662d-4dc7-95cc-5cb3718e9c3a)
+
 ## CONCLUSION
 
 ### Employers must adapt to Gen Z’s expectations to attract and retain top talent.
